@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de um README para um projeto de ciência de dados sobre a previsão de sobreviventes do Titanic usando Random Forest:
-
----
-
 # Previsão de Sobreviventes do Titanic com Machine Learning
 
 Este projeto visa prever os supostos sobreviventes do famoso acidente do Titanic usando técnicas de ciência de dados e aprendizado de máquina. Utilizamos a biblioteca scikit-learn em Python para implementar um modelo de Random Forest Classifier.
