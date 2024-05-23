@@ -21,11 +21,6 @@ Após treinar e avaliar o modelo, alcançamos uma acurácia de 71% na previsão 
 ## Contribuições
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções ou novas ideias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais detalhes.
-
 ---
 
 Sinta-se à vontade para personalizar este README conforme necessário para o seu projeto específico!
