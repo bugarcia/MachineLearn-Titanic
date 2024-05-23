@@ -14,29 +14,9 @@ Antes de construir o modelo de Machine Learning, realizamos uma análise explora
 
 O algoritmo de Random Forest é uma técnica popular de aprendizado supervisionado que combina múltiplas árvores de decisão para obter uma previsão mais precisa e robusta. Neste projeto, treinamos um modelo de Random Forest Classifier para prever se um passageiro sobreviveu ao naufrágio do Titanic com base em várias características.
 
-## Como usar este Repositório
-
-1. **Clonar o Repositório:**
-   ```
-   git clone https://github.com/seu-nome-de-usuario/titanic-survival-prediction.git
-   ```
-
-2. **Instalar Dependências:**
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. **Executar o Jupyter Notebook:**
-   ```
-   jupyter notebook Titanic_Survival_Prediction.ipynb
-   ```
-
-4. **Experimente com o Modelo:**
-   No notebook, você pode experimentar com o modelo, ajustar hiperparâmetros, e explorar diferentes técnicas de pré-processamento de dados.
-
 ## Resultados
 
-Após treinar e avaliar o modelo, alcançamos uma acurácia de X% na previsão de sobreviventes do Titanic em um conjunto de dados de teste separado.
+Após treinar e avaliar o modelo, alcançamos uma acurácia de 71% na previsão de sobreviventes do Titanic em um conjunto de dados de teste separado.
 
 ## Contribuições
 
